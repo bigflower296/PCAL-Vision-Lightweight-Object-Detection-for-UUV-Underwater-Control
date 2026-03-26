@@ -9,7 +9,7 @@ This repository contains the official PyTorch implementation of **PCAL-Vision**,
 By modifying the underlying network structure, we optimized the model to balance detection accuracy in visually degraded underwater environments and real-time inference performance on compute-constrained edge devices (e.g., NVIDIA Jetson).
 
 ## 🎥 Real-world Underwater Experiments
-Watch the demonstration of our PC-YOLO system deployed on a custom AUV for real-time visual servoing (Fixed-point Hovering & Dynamic Tracking):
+Watch the demonstration of our PCAL-Vision system deployed on a custom AUV for real-time visual servoing (Fixed-point Hovering & Dynamic Tracking):
 
 [![AUV Real-world Tracking](https://img.youtube.com/vi/IJa1e5b3HrI/0.jpg)](https://www.youtube.com/watch?v=IJa1e5b3HrI)
 *(Click the image above to watch the video on YouTube)*
