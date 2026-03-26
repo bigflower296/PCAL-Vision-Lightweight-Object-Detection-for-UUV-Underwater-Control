@@ -1,10 +1,10 @@
-# PC-YOLO: A Physics- and Compute-Aware Lightweight Network for Real-Time Underwater Object Detection and Tracking 🌊
+# PCAL-Vision: A Physics- and Compute-Aware Lightweight Network for Real-Time Underwater Object Detection and Tracking 🌊
 
 ![Python 3.8+](https://img.shields.io/badge/Python-3.8%2B-blue.svg)
 ![PyTorch](https://img.shields.io/badge/PyTorch-Compatible-orange.svg)
 ![YOLOv8](https://img.shields.io/badge/Based_on-YOLOv8-yellow.svg)
 
-This repository contains the official PyTorch implementation of **PC-YOLO**, a customized and lightweight object detection model designed for Unmanned Underwater Vehicles (UUVs) / Autonomous Underwater Vehicles (AUVs) visual servoing and closed-loop control tasks. 
+This repository contains the official PyTorch implementation of **PCAL-Vision**, a customized and lightweight object detection model designed for Unmanned Underwater Vehicles (UUVs) / Autonomous Underwater Vehicles (AUVs) visual servoing and closed-loop control tasks. 
 
 By modifying the underlying network structure, we optimized the model to balance detection accuracy in visually degraded underwater environments and real-time inference performance on compute-constrained edge devices (e.g., NVIDIA Jetson).
 
